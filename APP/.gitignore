@@ -1,0 +1,3 @@
+# Ignore bin and obj folders inside the AppAPI directory
+AppAPI/bin/
+AppAPI/obj/
